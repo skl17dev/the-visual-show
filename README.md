@@ -65,9 +65,28 @@ All videos generated using this code as a base are uploaded to our YouTube chann
 </div>
 
 ### Featured Videos
-[![The Most Popular Manga Series](assets/1.jpg)](https://youtu.be/7cByUxjHpcQ?si=rHFFupTV_9NHdns0)
-[![Fall of Oxygen](assets/2.jpg)](https://youtu.be/TyGZ5SC81qM?si=JxTxSlrPixNE8OCf)
-[![Richest Celebrities in the World](assets/3.jpg)](https://youtu.be/NiktStQx88Q?si=hSFmyrFZtuKT9f4c)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/7cByUxjHpcQ?si=rHFFupTV_9NHdns0">
+        <img src="assets/1.jpg" alt="The Most Popular Manga Series" width="250"/><br/>
+        <b>The Most Popular Manga Series</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/TyGZ5SC81qM?si=JxTxSlrPixNE8OCf">
+        <img src="assets/2.jpg" alt="Fall of Oxygen" width="250"/><br/>
+        <b>Fall of Oxygen</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/NiktStQx88Q?si=hSFmyrFZtuKT9f4c">
+        <img src="assets/3.jpg" alt="Richest Celebrities in the World" width="250"/><br/>
+        <b>Richest Celebrities in the World</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
