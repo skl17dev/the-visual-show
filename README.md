@@ -66,16 +66,5 @@ All videos generated using this code as a base are uploaded to our YouTube chann
 
 ### Featured Videos
 <div align="center">
-  <!-- Video 1 -->
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7cByUxjHpcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br><br>
-  
-  <!-- Video 2 -->
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TyGZ5SC81qM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  <br><br>
-  
-  <!-- Video 3 -->
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pfF3Z27ReBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cByUxjHpcQ?si=YBYLM3Hu2nGqvR69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
